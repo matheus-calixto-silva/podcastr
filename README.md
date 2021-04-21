@@ -1,34 +1,58 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align="center">
+  <img src=".github/podcastr-logo.svg" alt="Podcastr logo">
+</div>
 
-## Getting Started
+## Podcastr
 
-First, run the development server:
+[![Author](https://img.shields.io/badge/author-josepholiveira-8257E5?style=flat-square)](https://github.com/matheus-calixto-silva)
+
+<h4 align="center">
+  Podcastr é uma plataforma construída para transmissão de podcasts.
+</h4>
+
+![Podcastr preview](.github/app-preview.png)
+
+## Tecnologias
+
+<div align="center">
+  <br />
+  <img src=".github/tech-logos.png" alt="Tecnologias usadas">
+</div>
+
+Este projeto foi desenvolvido com o uso das seguintes tecnologias:
+
+
+- [ReactJS](https://reactjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Next.js](https://nextjs.org/)
+
+## 💻 Getting started
+
+### Requisitos
+
+- Vocẽ precisa instalar [Node.js](https://nodejs.org/en/download/) e [Yarn](https://yarnpkg.com/) para rodar este projeto.
+
+**Clone o projeto e acesse a pasta**
 
 ```bash
-npm run dev
-# or
-yarn dev
+$ git clone https://github.com/matheus-calixto-silva/podcastr.git && cd podcastr
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Siga os passo abaixo**
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+```bash
+# Instalar as dependencies
+$ yarn
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+# Rodar a aplicação
+$ yarn dev
+```
+A aplicação estará disponível para ser acessada em `http://localhost:3000`
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## 📝 Licença
 
-## Learn More
+Este projeto está licenciado sob a Licença MIT - veja a [LICENSE](LICENSE) para mais detalhes.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Feito por Matheus Calixto 👋 [Check out my LinkedIn](https://www.linkedin.com/in/matheus-calixto-silva)
