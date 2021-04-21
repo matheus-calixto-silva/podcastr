@@ -4,7 +4,7 @@
 
 ## Podcastr
 
-[![Author](https://img.shields.io/badge/author-josepholiveira-8257E5?style=flat-square)](https://github.com/matheus-calixto-silva)
+[![Author](https://img.shields.io/badge/Autor-Matheus%20Calixto-blueviolet)](https://github.com/matheus-calixto-silva)
 
 <h4 align="center">
   Podcastr é uma plataforma construída para transmissão de podcasts.
@@ -32,13 +32,13 @@ Este projeto foi desenvolvido com o uso das seguintes tecnologias:
 
 - Vocẽ precisa instalar [Node.js](https://nodejs.org/en/download/) e [Yarn](https://yarnpkg.com/) para rodar este projeto.
 
-**Clone o projeto e acesse a pasta**
+**Para clonar o projeto use o comando abaixo*
 
 ```bash
-$ git clone https://github.com/matheus-calixto-silva/podcastr.git && cd podcastr
+$ git clone https://github.com/matheus-calixto-silva/podcastr.git
 ```
 
-**Siga os passo abaixo**
+**Siga os passos abaixo**
 
 ```bash
 # Instalar as dependencies
@@ -51,7 +51,7 @@ A aplicação estará disponível para ser acessada em `http://localhost:3000`
 
 ## 📝 Licença
 
-Este projeto está licenciado sob a Licença MIT - veja a [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a Licença MIT - veja [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
