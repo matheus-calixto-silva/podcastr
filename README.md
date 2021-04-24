@@ -6,6 +6,8 @@
 
 [![Author](https://img.shields.io/badge/Autor-Matheus%20Calixto-blueviolet)](https://github.com/matheus-calixto-silva)
 
+ ## Sobre
+
 <h4 align="center">
   Podcastr é uma plataforma construída para transmissão de podcasts.
 </h4>
@@ -55,4 +57,4 @@ Este projeto está licenciado sob a Licença MIT - veja [LICENSE](LICENSE) para 
 
 ---
 
-Feito por Matheus Calixto 👋 [Check out my LinkedIn](https://www.linkedin.com/in/matheus-calixto-silva)
+Desenvolvido por [Matheus Calixto](https://www.linkedin.com/in/matheus-calixto-silva)
